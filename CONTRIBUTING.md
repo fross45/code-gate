@@ -32,3 +32,4 @@ Notes and usage details for code-gate.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- link the usage section
